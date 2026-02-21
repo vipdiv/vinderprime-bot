@@ -1,0 +1,1118 @@
+{
+  "45ecbfb01d0ce2c7ff3cd2371667bb70d8cf284bddbbcf08b2357b47b072ca0d": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.9,
+      "why": "The post only announces a major event and its date. It does not explicitly mention or discuss any transportation or logistics aspects such as parking, traffic, shuttles, or routes for getting to or fr",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771451867
+  },
+  "0855596379436fb139fd4e334af55b4914f8813d0f355162f1e673263d53f413": {
+    "value": {
+      "relevant": true,
+      "confidence": 0.85,
+      "why": "The post discusses 'Parking' for 'Austin Extreme Sports,' which falls under transportation/logistics for an event that could be considered a major Austin event. Parking is a key aspect of event travel",
+      "tags": [
+        "parking"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771451874
+  },
+  "0fd2115b44085248d4f23e73167fd2c6e5b1d2e6e12f1910a34467e8352d693a": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is about ballot propositions, a political topic, and does not relate to transportation or logistics for any major Austin event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771451876
+  },
+  "4d9b811d3027605bed7a9c921eafff8bd691f5c88fff248f6fb25bce31d2f955": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "Generic post about daily work commute, not related to transportation/logistics for major Austin events like COTA, ACL, or SXSW.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771451878
+  },
+  "078c6325bb04406c8a270aa5b01ab653679cd2347ed8543026d10fa4afaa6190": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post discusses general road infrastructure safety and structural integrity of flyovers. It is generic road news and not specific to transportation or logistics for getting to/from major Austin ev",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771451881
+  },
+  "62360447c32a81fd503602c3bf31570c8d71629bdcd729648a3c45aaff0d75e7": {
+    "value": {
+      "relevant": true,
+      "confidence": 0.75,
+      "why": "The post discusses crashes involving Austin Robotaxis, a form of rideshare/taxi service. This information is relevant to transportation logistics as these incidents can impact traffic flow, service re",
+      "tags": [
+        "rideshare",
+        "traffic",
+        "timing"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771451891
+  },
+  "34fbccdaef1a10e6f42aab9b9faa358a73d2fe6d27a3e5f00e50171a6287914a": {
+    "value": {
+      "relevant": true,
+      "confidence": 1.0,
+      "why": "The post specifically asks for 'RV Tips' for attending COTA MotoGP, which directly falls under RV/camping access and associated parking and logistical considerations for the event.",
+      "tags": [
+        "rv",
+        "parking",
+        "lot",
+        "timing"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771451893
+  },
+  "1fd78e288bb0b35e1fe7c58db90367f4b11501b2a94c523e5e8e94a55bd084fe": {
+    "value": {
+      "relevant": true,
+      "confidence": 1.0,
+      "why": "The post directly compares using Uber (rideshare) versus shuttle services for getting to COTA for F1, addressing key transportation logistics like drop-off points and route choices.",
+      "tags": [
+        "rideshare",
+        "shuttle",
+        "dropoff",
+        "route"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771451896
+  },
+  "10df7f2cb7b68b29c24f102753fb14857ba1f779cbc01c4719c24d9deb8c64a6": {
+    "value": {
+      "relevant": true,
+      "confidence": 0.95,
+      "why": "The post directly asks about arrival timing for a major event at COTA, which is crucial for planning transportation, managing traffic flow, securing parking, and utilizing shuttles efficiently.",
+      "tags": [
+        "timing",
+        "traffic",
+        "parking"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771451899
+  },
+  "9878e75de2a36266d8457efbbcdcde827b7344874ec67612ff73db1bd10a5a3f": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.95,
+      "why": "The post announces an event at COTA but contains no information or discussion about transportation, logistics, parking, traffic, or access for attendees. It's a general event announcement.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771451902
+  },
+  "8f403d18116c1a375d6bd904604b5b3e621ac6885890c339a7fdc1f4e773dffd": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.95,
+      "why": "The post title 'C3 waitlist for premiums?' strongly suggests it is about event tickets, premium access, or amenities within the ACL festival, not about transportation or logistics for travel to/from t",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771463282
+  },
+  "04a4d8561959c5c116d90acf84b977354eac0b5e07cab727cc8e3afe73c07918": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.95,
+      "why": "The post asks about a viewing location (Turn 15) within COTA, which is event seating/turn advice and has no transportation or logistics angle for getting to/from the venue.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771463284
+  },
+  "3d1c4820abcde7778b881b1f506ce4dcae3b095c52167b30100fa7bcb94c17be": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is about the musical lineup for Luck Reunion, an event associated with SXSW. It does not contain any information related to transportation, logistics, parking, traffic, or access for the even",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771479958
+  },
+  "93c0fe0f71c046545c1f7d2421a2922dd900d8ff362e00dcd9eff0c63c2fddb7": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post title 'Riding a Washing Machine (1997, Public Access)' has no discernible connection to transportation, logistics, or major Austin events. It appears to be unrelated Austin chatter.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771479961
+  },
+  "2817edfdbe8c9f9084334d3db8f229f8ddb5e99d1c97aac53bf45bf0fecaeaa0": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post is about a local attraction (Vic Mathias Shores) for photo opportunities and general enjoyment, with no mention of any major Austin events (COTA, ACL, SXSW) or specific transportation/logist",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771480543
+  },
+  "b951fd3de76c0f2655e2b85429817cc4533938aee170c901ba30ef55f5ba62bb": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post describes a personal health incident along a public path and is not related to transportation or logistics for major Austin events (COTA, ACL, SXSW, etc.).",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771480546
+  },
+  "23b8f722fa882f0ccb006cf932f2e61c5fd19c179c4fdc14197def5f852921fb": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is solely about film recommendations for SXSW attendees and has no mention of transportation or logistics for getting to/from event venues.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771480548
+  },
+  "e300a2e62cfd68c4f9a5c85be774a9feb514941ee45f8da09e6b7bf6ec4d91f0": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.9,
+      "why": "The post describes a general road incident on W Parmer Ln, providing a 'heads up' for general commuting rather than specific event travel logistics for COTA, ACL, SXSW, or other major Austin events.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771480550
+  },
+  "400b0a4d0f580b2955582dd57373e955ef8e91be9735f3d81c9048f3d89554ed": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post is about finding a couples therapist in Austin and has no relation to transportation or logistics for major Austin events like COTA, ACL, or SXSW. It is unrelated Austin chatter.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771480553
+  },
+  "e72b164b3dc63a49557b3d42851f5febd3c57f19df41f6bcf7c89e9dc68b491b": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is solely a music lineup for Luck Reunion, with no discussion of transportation, parking, routes, or any travel logistics for the event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771480555
+  },
+  "b31e5c3ce5ce7bf90fe502d089d4b25cc1067dcbb4191bb79fff60ff77825556": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is about a general observation of a plane/helicopter in South Austin, completely unrelated to event-specific transportation or logistics for COTA, ACL, SXSW, or other major Austin events.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771480558
+  },
+  "00a8bd917686ca7eab9acdd33bf17989a40577abf477e89ff2b1b8202b6aef7e": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is about a vintage public access TV show from 1997, \"Riding a Washing Machine.\" It has no connection to transportation or logistics for major Austin events.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771480560
+  },
+  "96e30e19253ece357dc160534170205ace5b5be9154f1e0b70b65784f9ec9e8d": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.95,
+      "why": "The post describes a personal driving experience on Mopac, a general road, and is not linked to transportation or logistics for COTA, ACL, SXSW, or any other major Austin event travel.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771480563
+  },
+  "88ae9e61a2112e7891dd3a779ece539fb4ebc42819e1fc4895ddad4c1c470bf7": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post discusses cultural observations of forehead markings across Austin and has no relation to transportation or logistics for any major event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771480565
+  },
+  "3576f813819a27e1a8005617af7935c8d9b63f341af1536286bb5a3ed6bbdba5": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post discusses hiking and stargazing at Enchanted Rock, which is not one of the specified major Austin events (COTA, ACL, SXSW) nor related to travel logistics for those events. It's about recreat",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771481587
+  },
+  "68c24590748fbfd4bdc100963e2231aafdf38241d42d466b3ea8b77fcbfb2a46": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post describes a general traffic pet peeve on Parmer, unrelated to specific major Austin events (COTA, ACL, SXSW) or their associated travel logistics and routes. It falls under generic road news",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771481590
+  },
+  "c945e98e66acaddd105e1a2ebedc6e38d0c0d28eb1e9c4a147b3cd83526fd477": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is asking for a tattoo artist recommendation, which is unrelated to transportation or logistics for major Austin events.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771481591
+  },
+  "3ce8d974c475f47b7f4090acb9fe45ef152e11d1f6929818ef622a5761a6d521": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.95,
+      "why": "This post is a general complaint about Uber driver quality in Austin, not specific transportation/logistics for getting to/from a major Austin event like COTA, ACL, or SXSW.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644484
+  },
+  "b7c3bbd9b7a6e07bce64bc71115f034c9d753cf0f2f8fe2f743ffe96b6032160": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post describes a general incident with first responders in North Austin (Howard and Dessau) and does not mention or relate to transportation/logistics for COTA, ACL, SXSW, or other major Austin e",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644487
+  },
+  "9f52b24f946a3111e720460be949f31afece746a9fb935a294dc0c17ccd1d171": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post discusses reasons for volunteering and networking at SXSW, with no mention of transportation, logistics, travel to/from the event, or any related topics like parking, traffic, or shuttles.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644489
+  },
+  "44b45445343efd29ce61779b463f8420dc94c8c2b0cd0a0a990243c656bbba4e": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is asking to identify an 'off putting building' located in a parking lot. This is general Austin chatter and not related to transportation or logistics for major events.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644492
+  },
+  "32067f1dae7d359aa5e0c6352f18a70fd0a9cb24236f181f1f27aa094f8bed99": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is about a podcaster looking for guests for interviews during SXSW. It pertains to event content and participation, not transportation or logistics for getting to, from, or around the event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644494
+  },
+  "9884444d8a2efc11b5974b3f5e5a5cb95cca35a82e65c44d1b372e1195b5ff57": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is about finding and hiding ducks on a trail and has no connection to transportation or logistics for major Austin events.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644497
+  },
+  "4826a4e3d3ea19047b03f8e98d4ec690689d0cbbc04b1de00e71d7758f53bc27": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post is an image of a gray fox with a zip code (78758) and has no relevance to transportation or logistics for major Austin events. It falls under unrelated Austin chatter.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644499
+  },
+  "ada359273d1d52fff849405bfcb938cc6c517180e0def703c65aa4ac39af9329": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post describes general downtown road closures and detours for daily commuters and rush hour, not specifically linked to transportation logistics for COTA, ACL, or SXSW events. It falls under gener",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644503
+  },
+  "7564c725ba6020fac0eb4c15f96d022885329f040cca5c7f7618c571ce8fd226": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post is about a band's schedule, performance dates, and networking during SXSW. It does not discuss any transportation or logistics aspects for getting to/from or around the event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644506
+  },
+  "cd405e79ee60a594850d55851958dd7f2e2c9cfed8056729f2b222d194065bee": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post is a personal medical inquiry about finding a reproductive endocrinologist in Austin and has no relation to transportation or logistics for major Austin events like COTA, ACL, or SXSW.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644507
+  },
+  "f91f82e406d74ebf0f5ca1922d74ddd6032ab1ce8214e2ad47a8e8d3eec19371": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is about finding Spanish lessons, which is completely unrelated to transportation or logistics for any major Austin event. It falls under unrelated Austin chatter.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644509
+  },
+  "b947f72ca260ca96c6e5440bc52387ce3cade78263ed0851d6108a42d74d438d": {
+    "value": {
+      "relevant": true,
+      "confidence": 0.85,
+      "why": "The post discusses avoiding the 'peak traffic week' of SXSW by staying with friends in the city, directly addressing event-induced traffic concerns and commute strategies.",
+      "tags": [
+        "traffic",
+        "timing"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771644513
+  },
+  "4a78dc4acf451837c0fb4f427248d643e5e344a472ff71e2921f2cbc3dc73239": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.95,
+      "why": "The post is solely focused on advice for event tickets and seating locations (Turn 12, main grandstand) within the COTA venue, with no mention of transportation or logistics for getting to or from the",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644515
+  },
+  "a27f2ea0bc3935ba014b0051c5bae400fac0f664794a6bdaf13339aa992dc02e": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "Post discusses joining a waitlist for event tickets, which is about event access and not transportation or logistics for getting to/from the festival.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644518
+  },
+  "46f00792a4cece61a4389bdaa45e1337e5eb98ab27cdfed794d4393faea283d3": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is an AMA about a movie, not related to transportation, logistics, or travel to/from SXSW or any other major Austin event. It discusses film content, not event access.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644521
+  },
+  "fe4d3e217f4f692c82e863e54fac24bb0269e24eb98d6b764f0cfa470d52a76f": {
+    "value": {
+      "relevant": true,
+      "confidence": 0.95,
+      "why": "The post asks for general tips for attending the F1 US Grand Prix at COTA, and specifically mentions 'shuttles,' which is a direct transportation logistics topic for event access.",
+      "tags": [
+        "shuttle"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771644525
+  },
+  "909382b8169942e00b547c2da251a0a74ba39685c0f9e86094424dae977ae675": {
+    "value": {
+      "relevant": true,
+      "confidence": 1.0,
+      "why": "The post directly asks about the parking situation for SXSW volunteers, which is a core transportation logistics concern for getting to/from the event.",
+      "tags": [
+        "parking"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771644527
+  },
+  "3e897f4c5812d9b7a8abc6ab3d32da88bee17264d84f5ec919885fefb0aeba74": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post announces Steven Spielberg as a speaker for SXSW 2026. This is event content, not related to transportation, traffic, parking, or any logistics for getting to or from the event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644529
+  },
+  "c8056c3b522b335897c28298a58b6daab91f0ccee0ea7a8d3065b0d6968c65ed": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.95,
+      "why": "The post discusses logistics within music venues (clearing between sets, reservations for showcases) at SXSW, which is event attendance advice, not transportation or logistics for getting to/from the ",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644531
+  },
+  "0a93ecba6fd6fb08bb4763f71e6a0611505bc588a5b09ad9efb41fe565746547": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post is about band speculation for ACL Festival and has no information or discussion related to transportation or logistics for getting to/from the event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644533
+  },
+  "2aec49045ff5123fd368e65f0b4a0554be46d2bf7d4b0c22d5ebaae1b4ea20aa": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post discusses the general experience of volunteering at SXSW (worth, training, networking) and has no mention of transportation, parking, or logistics for getting to/from volunteer locations.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644535
+  },
+  "0ef2157b3f71f4fa3e6d27cce0d868d50a1c44cdd4864b998b7b4d9b57131027": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is about finding SXSW event flyers and line-ups, not about transportation or logistics for getting to/from the event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644537
+  },
+  "cd1ce2c4dd1bdd94fe73c92704dcba9e69c5cb7f505b8329b72a0d793cdf2f5f": {
+    "value": {
+      "relevant": true,
+      "confidence": 0.9,
+      "why": "The post asks about tailgating for NASCAR at COTA, which directly involves parking logistics, specific lots, and potential RV access at the venue.",
+      "tags": [
+        "parking",
+        "lot",
+        "rv"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771644539
+  },
+  "63e84beb73fe78e1144ac5cb44c514fa0c7b32b4a18b22a1a677a39134901c9c": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "Post title 'Bourbon and Beyond' refers to a different event, not related to transportation or logistics for ACL or other specified Austin events.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644542
+  },
+  "e946b64715b8818178e084eb5fcb6551770dd0cb39c36bfbcb8bcce6e32224df": {
+    "value": {
+      "relevant": true,
+      "confidence": 0.95,
+      "why": "The post directly asks about RV arrival timing, parking locations/lots, check-in lines, and pedestrian navigation methods within the COTA grounds, all pertinent to event transportation and logistics.",
+      "tags": [
+        "rv",
+        "parking",
+        "timing",
+        "line",
+        "lot",
+        "walking"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771644546
+  },
+  "fdf7b5ebca3e51548eb2ea5634408f81c2bd8d0356a414a5b2ca14c7dbdd5403": {
+    "value": {
+      "relevant": true,
+      "confidence": 0.98,
+      "why": "The post directly discusses transportation logistics for the F1 race at COTA, comparing rideshare to the track versus rideshare to a shuttle stop, including considerations for route, timing, and dedic",
+      "tags": [
+        "rideshare",
+        "shuttle",
+        "route",
+        "timing",
+        "traffic",
+        "pickup"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771644548
+  },
+  "c8d60ea3a1c076f3be776a5b906763ad934ab9447b003839625189731b33a5e1": {
+    "value": {
+      "relevant": true,
+      "confidence": 0.9,
+      "why": "The post asks about optimal arrival timing for a NASCAR event at COTA. This directly relates to event logistics, specifically 'timing' for attendees to navigate traffic and plan their entry.",
+      "tags": [
+        "timing",
+        "traffic"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771644554
+  },
+  "ee5619489b710a261004e490599d9b4842b5fcc2b2241ab0d96aa14cb275f167": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.95,
+      "why": "The post announces an event at COTA, describing the event's activities and dates, but contains no information related to transportation or logistics for getting to or from the venue. It lacks details ",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644556
+  },
+  "ae359dbb22bd25cda91001e32822b41172018bff1803fd7740a22e67ccacb4a9": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post discusses the C3 waitlist system for purchasing premium event tickets, not any aspect of transportation or logistics for getting to/from ACL Festival.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644559
+  },
+  "9415a209229181045594bf4a0e96b1ff76fdc44cb82dc47c84cef8f11e5abc7d": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is purely about event seating location, visibility, and ticket swapping advice at COTA, with no mention of transportation or logistics for getting to/from the venue or moving within it.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644561
+  },
+  "9749a1b8af72c900684c15dd155a366cb61eb328bdff9eb6fc26f00fa585d3a2": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post discusses purchasing event tickets and avoiding online fees, which is unrelated to transportation or logistics for getting to/from COTA.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644564
+  },
+  "6a4247f67dc633c04fc1f633a17eec7643f5888593eeb6a8f45e8e02e8e8adc8": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.98,
+      "why": "The post describes an 'Hero Walk' experience for MotoGP ticket holders within the venue. It pertains to an internal event activity, not transportation or logistics for getting to or from COTA.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644566
+  },
+  "be16a2305f25a5981c8bda2db8a72f87594417e4833a92b8b5d736968ca52e00": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post discusses a potential headliner for ACL Festival, which is related to the event's lineup, not transportation or logistics for attending it.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644568
+  },
+  "5e53396e11152bcb627ba61113c766c49b3bd6e4efabb51b80f7f3d1cab6849e": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is about a musical artist/lineup speculation for ACL Festival, not transportation or logistics related to getting to or from the event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644571
+  },
+  "1bf5f4923933874ca9f9fa5205750656cc112b03d344dddca4ffb25f7ba5f42f": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post discusses what items (blanket, cooler, snacks) are allowed inside COTA's GA seating and paddock areas. This is event-specific information about ingress/allowed items, not transportation or lo",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644573
+  },
+  "d2e81eccc39323ba89cd754175fafa9bb55d0d038593e00442f0061ba7e5bf93": {
+    "value": {
+      "relevant": true,
+      "confidence": 1.0,
+      "why": "Post is selling an RV spot with parking for a tow vehicle at COTA, directly relevant to RV/camping access and parking logistics for event attendees.",
+      "tags": [
+        "rv",
+        "parking",
+        "lot"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771644576
+  },
+  "f8fe4e2f53523f7e959922245ee8292bd00524fa026f604d789a0c7ab2d8a0c2": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.95,
+      "why": "The post discusses an 'add-on' event experience (MotoGP Hero Walk) at COTA, not transportation or logistics for getting to or from the venue. It pertains to an activity within the event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644578
+  },
+  "1de440d5316f4c6cad4a39f498c41ea4485b864ff352c85ac89a24d43ff059ff": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post discusses seating availability and ticket sales for Turn 12 at COTA, which relates to event experience and seating, not transportation or logistics for getting to/from the venue.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644580
+  },
+  "cc60a1f8b5df0cf891fe3cbe6486b4403bc4db0ac81b9be03c8f9094a6279a9e": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.9,
+      "why": "The post is about 'Bike Night' at COTA, which is a smaller, recurring recreational event, not a major event that typically generates significant transportation or logistics challenges for getting to/f",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644584
+  },
+  "9b54da1f4874afda408f0cd4bd048a346071eea0bd1e00a4657443340e2e2482": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post is asking for recommendations on where to watch the race from, specifically regarding seating and General Admission views on-site. It does not involve any aspect of transportation or logisti",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644586
+  },
+  "729632943fcf10126b4688516e55c0d98c3c5fd19eae2e3a260682498236dc40": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is about event ticket sales and pricing for entry to WEC at COTA, not about transportation or logistics for getting to or from the venue, parking, traffic, or other travel-related aspects.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644589
+  },
+  "b286263da5b82cf98374daa9acdfc9738bfb24f30176f6ecb8c98c71cc608c41": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post discusses seat recommendations within Turn 15 at COTA for an F1 race. This is advice on event seating/viewing inside the venue, with no transportation or logistics angle.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644591
+  },
+  "d889d867c2d48596bde4ca86fd7d46bfe05d4b84099f12011745ebf1ccc26e68": {
+    "value": {
+      "relevant": true,
+      "confidence": 1.0,
+      "why": "Post directly asks about parking and shuttle options for attending NASCAR at COTA, which is key transportation/logistics information for getting to/from the event.",
+      "tags": [
+        "parking",
+        "shuttle",
+        "timing",
+        "lot"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771644593
+  },
+  "22d1132fd203811b50effe5f644a7270fc4ff4242481e81bbc9c34c66a230aa1": {
+    "value": {
+      "relevant": true,
+      "confidence": 0.95,
+      "why": "The post discusses optimal departure timing from Austin-Bergstrom International Airport (AUS) after F1 at COTA, addressing expected post-event congestion and travel flow related to leaving the event/c",
+      "tags": [
+        "timing",
+        "traffic",
+        "line"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771644596
+  },
+  "471b78a8e7c82bb88167c50ed9ecae7f3449a9430e86446af6648291c300927d": {
+    "value": {
+      "relevant": true,
+      "confidence": 1.0,
+      "why": "The post is directly asking about purchasing shuttle tickets, verifying shuttle pickup/dropoff locations, and seeking information for event transportation to COTA.",
+      "tags": [
+        "shuttle",
+        "pickup",
+        "dropoff"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771644598
+  },
+  "cdab3fb2a0ba0ad2942d333b362f2f11ef990d5fa3cde19d4ccbd16e5abd565b": {
+    "value": {
+      "relevant": true,
+      "confidence": 1.0,
+      "why": "The post announces sales for RV/camping at COTA for F1, directly addressing RV/camping access which is a key transportation/logistics aspect for the event.",
+      "tags": [
+        "rv"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771644600
+  },
+  "f5314b75ccb49976d46f64c297204a65adc3caff09f46efe3a1fc4dc20221787": {
+    "value": {
+      "relevant": true,
+      "confidence": 1.0,
+      "why": "The post directly discusses parking logistics for COTA, asking about purchasing parking lot tickets and recommendations for the most convenient lot.",
+      "tags": [
+        "parking",
+        "lot"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771644602
+  },
+  "b93921e5ec8d0cc07f750eea63a61b02af19aad78f237ae82a7eaa87cbaff52e": {
+    "value": {
+      "relevant": true,
+      "confidence": 1.0,
+      "why": "The post directly discusses the availability and timing of shuttle passes and shuttle locations for F1 at COTA, and also mentions parking options, which are core transportation logistics for the event",
+      "tags": [
+        "shuttle",
+        "timing",
+        "parking",
+        "pickup",
+        "dropoff"
+      ]
+    },
+    "provider": "gemini",
+    "ts": 1771644605
+  },
+  "e011c3f53ea3ec9cfe14c60d8db408d304e95bba0ee8d20910a46c708ded6008": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.98,
+      "why": "The post is about ticket sales for F1 grandstands, not about transportation or logistics for getting to or from COTA. It does not cover any aspects like parking, traffic, shuttles, or rideshare.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644607
+  },
+  "c1ac00c4bd48dc428462686a7a120423597790b0bc668ea1d8ca87e60d830c66": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post describes the COTA facility itself as the home of championships and an F1 venue. It does not contain any information related to transportation, logistics, or access for getting to or from the",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644610
+  },
+  "e60aa2d0e6b08f028fbf41fcf0f72cf241b22b77c398f3db85dd3dc48b76c4df": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post is a link to the general r/Formula1 subreddit, not about transportation or logistics for getting to/from COTA or any specific major Austin event. It's general community promotion.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644612
+  },
+  "3ec78aa9611e5a07a1ccd37aee42b58dc9022c53b21134e17413f13557d7481d": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post is about general NASCAR news and links to the broader NASCAR subreddit, not specific transportation or logistics for getting to/from COTA or any major Austin event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644615
+  },
+  "8aea77f05dfbdd590125f888bfe8c193eda79c3e09a19b334d5d2293f80bb9b5": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post describes the GRAND-AM auto racing sanctioning body and its series, which is not relevant to transportation or logistics for getting to/from COTA or any major Austin event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644618
+  },
+  "31f937490e7cdf0eaf77e49bcd359c7e7664a41b9e72267593853e7e1716aaad": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is about Dr. Timothy Leary and his works, with no connection to transportation or logistics for COTA or any other Austin event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644620
+  },
+  "19d744c1d89800fc228091292d24a4367edaa3749bb44d8fc18040a4ddefe03a": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.95,
+      "why": "This post is a general link to the r/Austin subreddit, not specific transportation or logistics information for COTA, ACL, SXSW, or other major Austin events.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644622
+  },
+  "f91bde3965b28e9f173f4e530f4c52bc016a57aa98c718f47f57ee508a196529": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post is about the sport of MotoGP itself, not about transportation or logistics for getting to/from the MotoGP event at COTA. It links to a general MotoGP subreddit for discussion of the sport.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644625
+  },
+  "9a10e371309f4fec4aa785e7945858a95dd3460f2a460a73d18ddbedd01851c2": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.95,
+      "why": "The post is about the e-sports team Evil Geniuses, providing general information about the team. It does not mention any transportation or logistics aspects related to getting to or from COTA or any m",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644627
+  },
+  "a4d802fcf59e2d9aeec7fb5c8cd3b248022a61433f785087527d55c19018a587": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post discusses the quality and nature of the racing event (Pirelli World Challenge) itself, not any aspects related to transportation, access, or logistics for attendees getting to or from COTA.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644629
+  },
+  "27d073b7e1a05164475caed8cd3de6195ba6fd335ddbdf18a6f3a98e61169502": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "Post is a general discussion about motorcycles, not specific to transportation or logistics (e.g., parking, access, traffic) for getting to/from COTA.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644632
+  },
+  "5a6b8df2f3ad3b9ef9191af31c82f9e40e8d50f9ccf98eca4d1ea2d9dd7e81a2": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post is about the INDYCAR series and its fan community, linking to another subreddit. It does not discuss transportation or logistics for any specific event at COTA or other Austin events.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644634
+  },
+  "97f3b20f5beefe90f5284ab18f98e3c059d7c1bd06e9481fcdce11a947a53098": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post title 'MacLethal' and snippet linking to another subreddit provide no information related to transportation or logistics for COTA events. It appears to be unrelated event chatter.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644638
+  },
+  "57db713e0341996c686e68045af1c50a1cc23018bbb0bf16d71f051752e0ac88": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.95,
+      "why": "The post is a subreddit redirection for United SportsCar Racing. It does not contain any information related to transportation or logistics for attending events at COTA.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644640
+  },
+  "74faec3d55cf7268bd3be3ed5eaa065159644474f030a0e3854c94497c290aa7": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post links to a general subreddit about automobiles (r/Autos) and is not related to transportation or logistics for getting to/from COTA or any major Austin event. It's general car content.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644642
+  },
+  "293afe00b6dd7d072262a6d562d4a7b508f49ef038de95772deb8ccbf00bff04": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.95,
+      "why": "This post is about the general World Endurance Championship subreddit, not specific transportation/logistics for an event at COTA. It lacks any information related to travel, parking, or traffic for C",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644644
+  },
+  "cdf3f1b9d6fc22ba98c97ff106f50cbd9e62843725dcc83d49334eedad30a2fb": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post is about a general racing subreddit (r/Touring_Cars) and not related to transportation or logistics for getting to/from COTA or any major Austin event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644646
+  },
+  "781344b5287f4e86d58c1cdc18b7a0ed0dcd77a9ffea1faaa33c1a1584f83094": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "Post is about a gaming community's development subreddit, not related to transportation/logistics for COTA or any major Austin event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644648
+  },
+  "1b05aa71bb962cd0a49a812d6cf759420125d3d6183bd95f837942c1ec0162d9": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "Post is about car photography and linking to a car aesthetics subreddit, not transportation or logistics for getting to/from COTA.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644651
+  },
+  "f5a4ed4fcb111c97b8928a430c6cbead9dcdc18d601e7aeea892a3a2ddb9503d": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post describes a general car enthusiast subreddit (r/Cars) and its content. It is not about transportation or logistics for getting to/from COTA or any other major Austin event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644653
+  },
+  "783d0d8cbf2d14419b65acc4a998b13c1d8e7484be7bcb5ea9bff9b312cce975": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post is entirely about the music artist Dieselboy (his music, career, and discography), not about transportation or logistics for getting to or from COTA or any major Austin event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644656
+  },
+  "19584036e975919fcd3b98b3d2ae6eb6825d7556b48dec7bade5c8aa45aa881f": {
+    "value": {
+      "relevant": false,
+      "confidence": 0.95,
+      "why": "The post is about the BMW brand and its dedicated subreddit (r/BMW), discussing general automotive topics like vehicles, tuning, and racing. It is not related to transportation or logistics for COTA o",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644658
+  },
+  "2cbec5da53736e0a7f83fd8ad70d5f69c306488cac19266cedb0f70ab40e27e5": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post is a general discussion about motorsports, not about transportation or logistics for getting to/from COTA or any major Austin event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644661
+  },
+  "291e3b71fa67d630843a67ced704c206fe8670ddf12783cfe3ecd66a98abce2e": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is about participating in motorcycle trackdays and a related subreddit, not about transportation or logistics for getting to/from COTA or other major Austin events.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644664
+  },
+  "599750b645e57f11986fe06192c2a6499524fa61e7695c74786b5325e3850beb": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "This post is about designing fictional race tracks, not about transportation or logistics for getting to or from COTA or any other event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644666
+  },
+  "6ea9c61a3a6fc7fa27a6951fc357ebd716fe4de391ca178ddf5e1f8a292a8d5a": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is about the iRacing simulation game community, not real-world transportation or logistics for getting to/from COTA or any major Austin event.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771644668
+  },
+  "98ef8ffe10d65b4cac3a6f90e8b6cbbe7007edd8e420f49dd82ba8a74998b74b": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is a photo of a sunset and contains no information related to transportation or logistics for any major Austin event. It falls under unrelated Austin chatter.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771647353
+  },
+  "f205baffe6d3c7b1db4235dacb367fa0efc35aa6b9bd220a7a80d5407902204a": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post discusses building carports for personal vehicles at home, which is entirely unrelated to transportation logistics for getting to/from major Austin events.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771648293
+  },
+  "693556ed164d3d38dfd15f03a9a8ac353df266625b9ef9b1bd327d7024756549": {
+    "value": {
+      "relevant": false,
+      "confidence": 1.0,
+      "why": "The post is a personal request for pictures of the user while 'riding' and has no mention of transportation or logistics for any major Austin event. It's unrelated Austin chatter.",
+      "tags": []
+    },
+    "provider": "gemini",
+    "ts": 1771648918
+  }
+}
